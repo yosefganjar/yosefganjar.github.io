@@ -23,3 +23,7 @@ footer {
 section {
   padding-top: 7rem;
 }
+
+#gallery .row > * {
+  padding: 0;
+}
